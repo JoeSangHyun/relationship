@@ -20,6 +20,7 @@ public class CategoryRepositoryTest {
     @Test
     void relationShipTest() {
         // 테스트 데이터 생성
+        // 깃허브 테스트
         Product product = new Product();
         product.setName("펜");
         product.setPrice(2000);
